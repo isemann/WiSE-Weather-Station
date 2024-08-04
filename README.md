@@ -1,8 +1,22 @@
-# 3D print WX station
+# WiSE Weather Station
 
-Firmware and 3d models
+This code is based on 3D printed WX station https://remoteqth.com/w/doku.php?id=3d_print_wx_station
+TNX OK1IAK for code help
 
-[Wiki page](https://remoteqth.com/w/doku.php?id=3d_print_wx_station)
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
 
-![Hardware](3d-wx-station.png)
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+
+Changelog:
+20240804 -  fixed address issue of BME and HTU21D sensor
 
