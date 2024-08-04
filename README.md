@@ -1,7 +1,7 @@
 # WiSE Weather Station
 
-This code is based on 3D printed WX station https://remoteqth.com/w/doku.php?id=3d_print_wx_station
-TNX OK1IAK for code help
+This code is based on the 3D printed WX station project of OK1HRA https://remoteqth.com/w/doku.php?id=3d_print_wx_station
+TNX to OK1HRA !
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -17,6 +17,9 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-Changelog:
+
+## Changelog:
+20240503 -  update of libraries for sensors, TCP stack and Web server to latest versions
+20240607 -  MQTT Wall and MQTT Broker added as HAMNET resource
 20240804 -  fixed address issue of BME and HTU21D sensor
 
