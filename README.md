@@ -25,3 +25,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 20240804 -  fixed address issue of BME and HTU21D sensor
 
+
+## Contact details
+Email: bernhard@isemann.at
+
+LinkedIn: [Bernhard Isemann](https://www.linkedin.com/in/bernhardisemann/)
+
+CallSign: OE3BIA, F4VVO
